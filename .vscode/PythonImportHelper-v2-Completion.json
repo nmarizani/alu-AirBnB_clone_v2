@@ -289,6 +289,14 @@
         "documentation": {}
     },
     {
+        "label": "BaseModel",
+        "importPath": "models.base_model",
+        "description": "models.base_model",
+        "isExtraImport": true,
+        "detail": "models.base_model",
+        "documentation": {}
+    },
+    {
         "label": "City",
         "importPath": "models.city",
         "description": "models.city",
@@ -993,12 +1001,30 @@
         "documentation": {}
     },
     {
-        "label": "console",
+        "label": "sys",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "console",
-        "description": "console",
-        "detail": "console",
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
         "documentation": {}
     },
     {
@@ -1245,6 +1271,15 @@
         "documentation": {}
     },
     {
+        "label": "pycodestyle_path",
+        "kind": 5,
+        "importPath": "tests.test_models.test_base_model",
+        "description": "tests.test_models.test_base_model",
+        "peekOfCode": "pycodestyle_path = os.path.abspath(\"path_to_pycodestyle\")\nsys.path.append(pycodestyle_path)\n# Add parent directory to sys.path to import BaseModel\nsys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))\nfrom models.base_model import BaseModel\nBaseModel = models.base_model.BaseModel\nmodule_doc = models.base_model.__doc__\nclass TestBaseModelDocs(unittest.TestCase):\n    \"\"\"Tests to check the documentation and style of BaseModel class\"\"\"\n    @classmethod",
+        "detail": "tests.test_models.test_base_model",
+        "documentation": {}
+    },
+    {
         "label": "BaseModel",
         "kind": 5,
         "importPath": "tests.test_models.test_base_model",
@@ -1407,11 +1442,20 @@
         "documentation": {}
     },
     {
-        "label": "HBNBCommand",
+        "label": "current_dir",
         "kind": 5,
         "importPath": "tests.test_console",
         "description": "tests.test_console",
-        "peekOfCode": "HBNBCommand = console.HBNBCommand\nclass TestConsoleDocs(unittest.TestCase):\n    \"\"\"Class for testing documentation of the console\"\"\"\n    def test_pep8_conformance_console(self):\n        \"\"\"Test that console.py conforms to PEP8.\"\"\"\n        pep8s = pep8.StyleGuide(quiet=True)\n        result = pep8s.check_files(['console.py'])\n        self.assertEqual(result.total_errors, 0,\n                         \"Found code style errors (and warnings).\")\n    def test_pep8_conformance_test_console(self):",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.abspath(__file__))\n# Get the absolute path to the root directory of the project\nroot_dir = os.path.dirname(current_dir)\n# Add the root directory to the system path\nsys.path.append(root_dir)\n# Now you can import console.py\ntry:\n    from console import HBNBCommand\nexcept ModuleNotFoundError as e:\n    print(f\"Error: {e}\")",
+        "detail": "tests.test_console",
+        "documentation": {}
+    },
+    {
+        "label": "root_dir",
+        "kind": 5,
+        "importPath": "tests.test_console",
+        "description": "tests.test_console",
+        "peekOfCode": "root_dir = os.path.dirname(current_dir)\n# Add the root directory to the system path\nsys.path.append(root_dir)\n# Now you can import console.py\ntry:\n    from console import HBNBCommand\nexcept ModuleNotFoundError as e:\n    print(f\"Error: {e}\")\n    print(f\"Current directory: {current_dir}\")\n    print(f\"Root directory: {root_dir}\")",
         "detail": "tests.test_console",
         "documentation": {}
     },

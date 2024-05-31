@@ -2,12 +2,30 @@
 """
 Contains the class TestConsoleDocs
 """
+import io
+import os
+import sys
+# Get the absolute path to the directory containing this script
+current_dir = os.path.dirname(os.path.abspath(__file__))
 
-import console
-import inspect
-import pep8
+# Get the absolute path to the root directory of the project
+root_dir = os.path.dirname(current_dir)
+
+# Add the root directory to the system path
+sys.path.append(root_dir)
+
+# Now you can import console.py
+try:
+    from console import HBNBCommand
+except ModuleNotFoundError as e:
+    print(f"Error: {e}")
+    print(f"Current directory: {current_dir}")
+    print(f"Root directory: {root_dir}")
+    print(f"sys.path: {sys.path}")
+
+import inspect  
 import unittest
-HBNBCommand = console.HBNBCommand
+
 
 
 class TestConsoleDocs(unittest.TestCase):
@@ -39,3 +57,4 @@ class TestConsoleDocs(unittest.TestCase):
                          "HBNBCommand class needs a docstring")
         self.assertTrue(len(HBNBCommand.__doc__) >= 1,
                         "HBNBCommand class needs a docstring")
+        

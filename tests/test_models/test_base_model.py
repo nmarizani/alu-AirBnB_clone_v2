@@ -2,11 +2,21 @@
 """Test BaseModel for expected behavior and documentation"""
 from datetime import datetime
 import inspect
-import models
-import pep8 as pycodestyle
 import time
 import unittest
 from unittest import mock
+import os
+import sys
+import subprocess
+
+# Add pycodestyle directory to sys.path
+pycodestyle_path = os.path.abspath("path_to_pycodestyle")
+sys.path.append(pycodestyle_path)
+
+# Add parent directory to sys.path to import BaseModel
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '../../')))
+
+from models.base_model import BaseModel
 BaseModel = models.base_model.BaseModel
 module_doc = models.base_model.__doc__
 
@@ -157,4 +167,4 @@ class TestBaseModel(unittest.TestCase):
         self.assertNotEqual(old_updated_at, new_updated_at)
         self.assertEqual(old_created_at, new_created_at)
         self.assertTrue(mock_storage.new.called)
-        self.assertTrue(mock_storage.save.called)S
+        self.assertTrue(mock_storage.save.called)
