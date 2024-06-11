@@ -57,6 +57,70 @@
         "documentation": {}
     },
     {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "storage",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
         "label": "Amenity",
         "importPath": "models.amenity",
         "description": "models.amenity",
@@ -924,6 +988,22 @@
         "documentation": {}
     },
     {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
         "label": "declarative_base",
         "importPath": "sqlalchemy.ext.declarative",
         "description": "sqlalchemy.ext.declarative",
@@ -1025,6 +1105,230 @@
         "importPath": "io",
         "description": "io",
         "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "put",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "env",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "local",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "put",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "fabric.api",
+        "description": "fabric.api",
+        "isExtraImport": true,
+        "detail": "fabric.api",
+        "documentation": {}
+    },
+    {
+        "label": "exists",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "exists",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "isdir",
+        "importPath": "os.path",
+        "description": "os.path",
+        "isExtraImport": true,
+        "detail": "os.path",
         "documentation": {}
     },
     {
@@ -1457,6 +1761,492 @@
         "description": "tests.test_console",
         "peekOfCode": "root_dir = os.path.dirname(current_dir)\n# Add the root directory to the system path\nsys.path.append(root_dir)\n# Now you can import console.py\ntry:\n    from console import HBNBCommand\nexcept ModuleNotFoundError as e:\n    print(f\"Error: {e}\")\n    print(f\"Current directory: {current_dir}\")\n    print(f\"Root directory: {root_dir}\")",
         "detail": "tests.test_console",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.0-hello_route",
+        "description": "web_flask.0-hello_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.0-hello_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.0-hello_route",
+        "description": "web_flask.0-hello_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.0-hello_route",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.1-hbnb_route",
+        "description": "web_flask.1-hbnb_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.1-hbnb_route",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.1-hbnb_route",
+        "description": "web_flask.1-hbnb_route",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.1-hbnb_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.1-hbnb_route",
+        "description": "web_flask.1-hbnb_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\nif __name__ == '__main__':",
+        "detail": "web_flask.1-hbnb_route",
+        "documentation": {}
+    },
+    {
+        "label": "filters",
+        "kind": 2,
+        "importPath": "web_flask.10-hbnb_filters",
+        "description": "web_flask.10-hbnb_filters",
+        "peekOfCode": "def filters():\n    \"\"\"display a HTML page like 6-index.html from static\"\"\"\n    states = storage.all(\"State\").values()\n    amenities = storage.all(\"Amenity\").values()\n    return render_template('10-hbnb_filters.html', states=states,\n                           amenities=amenities)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()",
+        "detail": "web_flask.10-hbnb_filters",
+        "documentation": {}
+    },
+    {
+        "label": "teardown_db",
+        "kind": 2,
+        "importPath": "web_flask.10-hbnb_filters",
+        "description": "web_flask.10-hbnb_filters",
+        "peekOfCode": "def teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.10-hbnb_filters",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.10-hbnb_filters",
+        "description": "web_flask.10-hbnb_filters",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/hbnb_filters', strict_slashes=False)\ndef filters():\n    \"\"\"display a HTML page like 6-index.html from static\"\"\"\n    states = storage.all(\"State\").values()\n    amenities = storage.all(\"Amenity\").values()\n    return render_template('10-hbnb_filters.html', states=states,\n                           amenities=amenities)\n@app.teardown_appcontext\ndef teardown_db(exception):",
+        "detail": "web_flask.10-hbnb_filters",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.2-c_route",
+        "description": "web_flask.2-c_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.2-c_route",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.2-c_route",
+        "description": "web_flask.2-c_route",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.2-c_route",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.2-c_route",
+        "description": "web_flask.2-c_route",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.2-c_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.2-c_route",
+        "description": "web_flask.2-c_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.2-c_route",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "pythoniscool",
+        "kind": 2,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "def pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.3-python_route",
+        "description": "web_flask.3-python_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.3-python_route",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "pythoniscool",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "imanumber",
+        "kind": 2,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "def imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.4-number_route",
+        "description": "web_flask.4-number_route",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.4-number_route",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "pythoniscool",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\n@app.route('/number_template/<int:n>', strict_slashes=False)\ndef numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "imanumber",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\n@app.route('/number_template/<int:n>', strict_slashes=False)\ndef numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"\n    return render_template('5-number.html', n=n)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "numbersandtemplates",
+        "kind": 2,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "def numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"\n    return render_template('5-number.html', n=n)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.5-number_template",
+        "description": "web_flask.5-number_template",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.5-number_template",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "hbnb",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)\ndef cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "cisfun",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def cisfun(text):\n    \"\"\"display “C ” followed by the value of the text variable\"\"\"\n    return 'C ' + text.replace('_', ' ')\n@app.route('/python', strict_slashes=False)\n@app.route('/python/<text>', strict_slashes=False)\ndef pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "pythoniscool",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def pythoniscool(text='is cool'):\n    \"\"\"display “Python ”, followed by the value of the text variable\"\"\"\n    return 'Python ' + text.replace('_', ' ')\n@app.route('/number/<int:n>', strict_slashes=False)\ndef imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\n@app.route('/number_template/<int:n>', strict_slashes=False)\ndef numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "imanumber",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def imanumber(n):\n    \"\"\"display “n is a number” only if n is an integer\"\"\"\n    return \"{:d} is a number\".format(n)\n@app.route('/number_template/<int:n>', strict_slashes=False)\ndef numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"\n    return render_template('5-number.html', n=n)\n@app.route('/number_odd_or_even/<int:n>', strict_slashes=False)\ndef numbersandevenness(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "numbersandtemplates",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def numbersandtemplates(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"\n    return render_template('5-number.html', n=n)\n@app.route('/number_odd_or_even/<int:n>', strict_slashes=False)\ndef numbersandevenness(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"\n    if n % 2 == 0:\n        evenness = 'even'\n    else:\n        evenness = 'odd'",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "numbersandevenness",
+        "kind": 2,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "def numbersandevenness(n):\n    \"\"\"display a HTML page only if n is an integer\"\"\"\n    if n % 2 == 0:\n        evenness = 'even'\n    else:\n        evenness = 'odd'\n    return render_template('6-number_odd_or_even.html', n=n,\n                           evenness=evenness)\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.6-number_odd_or_even",
+        "description": "web_flask.6-number_odd_or_even",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/', strict_slashes=False)\ndef index():\n    \"\"\"returns Hello HBNB!\"\"\"\n    return 'Hello HBNB!'\n@app.route('/hbnb', strict_slashes=False)\ndef hbnb():\n    \"\"\"returns HBNB\"\"\"\n    return 'HBNB'\n@app.route('/c/<text>', strict_slashes=False)",
+        "detail": "web_flask.6-number_odd_or_even",
+        "documentation": {}
+    },
+    {
+        "label": "states_list",
+        "kind": 2,
+        "importPath": "web_flask.7-states_list",
+        "description": "web_flask.7-states_list",
+        "peekOfCode": "def states_list():\n    \"\"\"display a HTML page with the states listed in alphabetical order\"\"\"\n    states = sorted(list(storage.all(\"State\").values()), key=lambda x: x.name)\n    return render_template('7-states_list.html', states=states)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.7-states_list",
+        "documentation": {}
+    },
+    {
+        "label": "teardown_db",
+        "kind": 2,
+        "importPath": "web_flask.7-states_list",
+        "description": "web_flask.7-states_list",
+        "peekOfCode": "def teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.7-states_list",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.7-states_list",
+        "description": "web_flask.7-states_list",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/states_list', strict_slashes=False)\ndef states_list():\n    \"\"\"display a HTML page with the states listed in alphabetical order\"\"\"\n    states = sorted(list(storage.all(\"State\").values()), key=lambda x: x.name)\n    return render_template('7-states_list.html', states=states)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()",
+        "detail": "web_flask.7-states_list",
+        "documentation": {}
+    },
+    {
+        "label": "cities_by_states",
+        "kind": 2,
+        "importPath": "web_flask.8-cities_by_states",
+        "description": "web_flask.8-cities_by_states",
+        "peekOfCode": "def cities_by_states():\n    \"\"\"display the states and cities listed in alphabetical order\"\"\"\n    states = storage.all(\"State\").values()\n    return render_template('8-cities_by_states.html', states=states)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.8-cities_by_states",
+        "documentation": {}
+    },
+    {
+        "label": "teardown_db",
+        "kind": 2,
+        "importPath": "web_flask.8-cities_by_states",
+        "description": "web_flask.8-cities_by_states",
+        "peekOfCode": "def teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.8-cities_by_states",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.8-cities_by_states",
+        "description": "web_flask.8-cities_by_states",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/cities_by_states', strict_slashes=False)\ndef cities_by_states():\n    \"\"\"display the states and cities listed in alphabetical order\"\"\"\n    states = storage.all(\"State\").values()\n    return render_template('8-cities_by_states.html', states=states)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()",
+        "detail": "web_flask.8-cities_by_states",
+        "documentation": {}
+    },
+    {
+        "label": "states",
+        "kind": 2,
+        "importPath": "web_flask.9-states",
+        "description": "web_flask.9-states",
+        "peekOfCode": "def states(state_id=None):\n    \"\"\"display the states and cities listed in alphabetical order\"\"\"\n    states = storage.all(\"State\")\n    if state_id is not None:\n        state_id = 'State.' + state_id\n    return render_template('9-states.html', states=states, state_id=state_id)\n@app.teardown_appcontext\ndef teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()",
+        "detail": "web_flask.9-states",
+        "documentation": {}
+    },
+    {
+        "label": "teardown_db",
+        "kind": 2,
+        "importPath": "web_flask.9-states",
+        "description": "web_flask.9-states",
+        "peekOfCode": "def teardown_db(exception):\n    \"\"\"closes the storage on teardown\"\"\"\n    storage.close()\nif __name__ == '__main__':\n    app.run(host='0.0.0.0', port='5000')",
+        "detail": "web_flask.9-states",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "web_flask.9-states",
+        "description": "web_flask.9-states",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/states', strict_slashes=False)\n@app.route('/states/<state_id>', strict_slashes=False)\ndef states(state_id=None):\n    \"\"\"display the states and cities listed in alphabetical order\"\"\"\n    states = storage.all(\"State\")\n    if state_id is not None:\n        state_id = 'State.' + state_id\n    return render_template('9-states.html', states=states, state_id=state_id)\n@app.teardown_appcontext",
+        "detail": "web_flask.9-states",
+        "documentation": {}
+    },
+    {
+        "label": "do_pack",
+        "kind": 2,
+        "importPath": "1-pack_web_static",
+        "description": "1-pack_web_static",
+        "peekOfCode": "def do_pack():\n    \"\"\"\n    making an archive on web_static folder\n    \"\"\"\n    time = datetime.now()\n    archive = 'web_static_' + time.strftime(\"%Y%m%d%H%M%S\") + '.' + 'tgz'\n    local('mkdir -p versions')\n    create = local('tar -cvzf versions/{} web_static'.format(archive))\n    if create is not None:\n        return archive",
+        "detail": "1-pack_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "do_deploy",
+        "kind": 2,
+        "importPath": "2-do_deploy_web_static",
+        "description": "2-do_deploy_web_static",
+        "peekOfCode": "def do_deploy(archive_path):\n    \"\"\"distributes an archive to the web servers\"\"\"\n    if exists(archive_path) is False:\n        return False\n    try:\n        file_n = archive_path.split(\"/\")[-1]\n        no_ext = file_n.split(\".\")[0]\n        path = \"/data/web_static/releases/\"\n        put(archive_path, '/tmp/')\n        run('mkdir -p {}{}/'.format(path, no_ext))",
+        "detail": "2-do_deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "env.hosts",
+        "kind": 5,
+        "importPath": "2-do_deploy_web_static",
+        "description": "2-do_deploy_web_static",
+        "peekOfCode": "env.hosts = ['3.89.137.155', '54.167.79.218']\ndef do_deploy(archive_path):\n    \"\"\"distributes an archive to the web servers\"\"\"\n    if exists(archive_path) is False:\n        return False\n    try:\n        file_n = archive_path.split(\"/\")[-1]\n        no_ext = file_n.split(\".\")[0]\n        path = \"/data/web_static/releases/\"\n        put(archive_path, '/tmp/')",
+        "detail": "2-do_deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "do_pack",
+        "kind": 2,
+        "importPath": "3-deploy_web_static",
+        "description": "3-deploy_web_static",
+        "peekOfCode": "def do_pack():\n    \"\"\"generates a tgz archive\"\"\"\n    try:\n        date = datetime.now().strftime(\"%Y%m%d%H%M%S\")\n        if isdir(\"versions\") is False:\n            local(\"mkdir versions\")\n        file_name = \"versions/web_static_{}.tgz\".format(date)\n        local(\"tar -cvzf {} web_static\".format(file_name))\n        return file_name\n    except:",
+        "detail": "3-deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "do_deploy",
+        "kind": 2,
+        "importPath": "3-deploy_web_static",
+        "description": "3-deploy_web_static",
+        "peekOfCode": "def do_deploy(archive_path):\n    \"\"\"distributes an archive to the web servers\"\"\"\n    if exists(archive_path) is False:\n        return False\n    try:\n        file_n = archive_path.split(\"/\")[-1]\n        no_ext = file_n.split(\".\")[0]\n        path = \"/data/web_static/releases/\"\n        put(archive_path, '/tmp/')\n        run('mkdir -p {}{}/'.format(path, no_ext))",
+        "detail": "3-deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "deploy",
+        "kind": 2,
+        "importPath": "3-deploy_web_static",
+        "description": "3-deploy_web_static",
+        "peekOfCode": "def deploy():\n    \"\"\"creates and distributes an archive to the web servers\"\"\"\n    archive_path = do_pack()\n    if archive_path is None:\n        return False\n    return do_deploy(archive_path)",
+        "detail": "3-deploy_web_static",
+        "documentation": {}
+    },
+    {
+        "label": "env.hosts",
+        "kind": 5,
+        "importPath": "3-deploy_web_static",
+        "description": "3-deploy_web_static",
+        "peekOfCode": "env.hosts = ['3.89.137.155', '54.167.79.218']\ndef do_pack():\n    \"\"\"generates a tgz archive\"\"\"\n    try:\n        date = datetime.now().strftime(\"%Y%m%d%H%M%S\")\n        if isdir(\"versions\") is False:\n            local(\"mkdir versions\")\n        file_name = \"versions/web_static_{}.tgz\".format(date)\n        local(\"tar -cvzf {} web_static\".format(file_name))\n        return file_name",
+        "detail": "3-deploy_web_static",
         "documentation": {}
     },
     {
